@@ -1,7 +1,5 @@
 # Web Development Project 5 - *Weather Dashboard*
 
-Submitted by: **Xinrui Hou**
-
 This web app: **iThis web app fetches API data from WeahterBit and display a city's weather forcast in 7 days. User can add zipcode to get a city's forcast.**
 
 Time spent: **7** hours spent in total
